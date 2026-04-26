@@ -27,10 +27,10 @@ Translating technical complexity into business value through data-driven optimiz
 
 ### 🛠️ Technical Arsenal
 
-![Systems](https://img.shields.io/badge/Architecture-Clean--Code-blue?style=for-the-badge)
-![IoT](https://img.shields.io/badge/Hardware-IoT-orange?style=for-the-badge)
-![Full-Stack](https://img.shields.io/badge/Platform-Full--Stack-green?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Firebase--Vercel-black?style=for-the-badge)
+![Systems](https://img.shields.io/badge/Architecture-Clean--Code-8b74ff?style=for-the-badge&logoColor=white)
+![IoT](https://img.shields.io/badge/Hardware-IoT-a492ff?style=for-the-badge&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/Platform-Full--Stack-8b74ff?style=for-the-badge&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Firebase--Vercel-2d2d2d?style=for-the-badge&logoColor=8b74ff)
 
 ---
 
@@ -38,8 +38,8 @@ Translating technical complexity into business value through data-driven optimiz
 *Note: Currently migrating my commercial and academic portfolio to this centralized GitHub environment.*
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=roshaanahsan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Roshaan's Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaanahsan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=roshaanahsan&show_icons=true&title_color=8b74ff&icon_color=a492ff&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="Roshaan's Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshaanahsan&layout=compact&title_color=8b74ff&icon_color=a492ff&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
 ---
@@ -51,5 +51,5 @@ Translating technical complexity into business value through data-driven optimiz
 
 ---
 <p align="center">
-  <i>"Precision in architecture, efficiency in execution."</i>
+  <font color="#8b74ff"><i>"Precision in architecture, efficiency in execution."</i></font>
 </p>
