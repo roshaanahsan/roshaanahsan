@@ -35,7 +35,6 @@ Translating technical complexity into business value through data-driven optimiz
 ---
 
 ### 📈 Technical Metrics
-*Note: Currently migrating my commercial and academic portfolio to this centralized GitHub environment.*
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=roshaanahsan&show_icons=true&title_color=8f7fe0&icon_color=7264b3&text_color=cfcdd3&bg_color=171129&hide_border=true&count_private=true" alt="Roshaan's Stats" width="400" />
